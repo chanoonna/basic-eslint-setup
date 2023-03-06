@@ -2,7 +2,7 @@
 
 ## Installation
 ```
-git clone --depth 1 git@github.com:chanoonna/basic-eslint-setup.git <desigred folder name>
+git clone --depth 1 git@github.com:chanoonna/basic-eslint-setup.git <desired folder name>
 ```
 then 
 ```

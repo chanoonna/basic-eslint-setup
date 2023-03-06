@@ -6,7 +6,9 @@ git clone --depth 1 git@github.com:chanoonna/basic-eslint-setup.git <desired fol
 ```
 then 
 ```
-npm install or yarn
+npm install
+// or
+yarn
 ```
 
 After installing the dependencies, it will remove its git report origin so you can add your own.

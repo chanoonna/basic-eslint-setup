@@ -1,0 +1,25 @@
+{
+  "name": "eslint-boilerplace-typescript-react",
+  "version": "1.0.0",
+  "description": "Boilerplate configuration for eslint with Javascript, Typescript and React",
+  "main": "test.js",
+  "scripts": {
+    "postinstall": "git remote remove origin; rm package.json; rm package-lock.json; rm -rf node_modules; rm .gitignore; rm README.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chanoonna/eslint-boilerplate-react-typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chanoonna/eslint-boilerplate-react-typescript/issues"
+  },
+  "homepage": "https://github.com/chanoonna/eslint-boilerplate-react-typescript#readme",
+  "devDependencies": {
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-n": "^15.6.1",
+    "eslint-plugin-promise": "^6.1.1"
+  }
+}

@@ -7,7 +7,9 @@ git clone --depth 1 git@github.com:chanoonna/basic-eslint-setup.git <desired fol
 then 
 ```
 npm install
-// or
+```
+or
+```
 yarn
 ```
 
